@@ -1,0 +1,146 @@
+[
+  {
+    "name": "Demacian Chicken Royale",
+    "description": "Golden-fried chicken fit for a Demacian king, served with a side of honor fries.",
+    "price": 8.99,
+    "region": "Demacia",
+    "spiceLevel": "Mild",
+    "glutenFree": true,
+    "type": "main"
+  },
+  {
+    "name": "Shuriman Sandburger",
+    "description": "A towering burger with sun-dried tomatoes and golden Shuriman sauce.",
+    "price": 9.49,
+    "region": "Shurima",
+    "spiceLevel": "Medium",
+    "glutenFree": false,
+    "type": "main"
+  },
+  {
+    "name": "Void-Born Double Stacker",
+    "description": "A dark and mysterious double cheeseburger topped with Vel'Koz's signature 'Void Cheese' sauce.",
+    "price": 10.99,
+    "region": "Void",
+    "spiceLevel": "Medium",
+    "glutenFree": false,
+    "type": "main"
+  },
+  {
+    "name": "Freljord Mammoth Burger",
+    "description": "A hearty elk burger infused with Braum's secret sauce, served with crispy tundra chips.",
+    "price": 11.99,
+    "region": "Freljord",
+    "spiceLevel": "Mild",
+    "glutenFree": false,
+    "type": "main"
+  },
+  {
+    "name": "Bilgewater Buccaneer Burger",
+    "description": "A juicy beef patty with grilled pineapple and spicy rum glaze, straight from Bilgewater's finest taverns.",
+    "price": 12.49,
+    "region": "Bilgewater",
+    "spiceLevel": "Hot",
+    "glutenFree": false,
+    "type": "main"
+  },
+  {
+    "name": "Noxian Carnage Burger",
+    "description": "A triple-meat burger with crimson hot sauce, layered with blood-red tomato and pepper jack cheese.",
+    "price": 13.99,
+    "region": "Noxus",
+    "spiceLevel": "Extra Hot",
+    "glutenFree": false,
+    "type": "main"
+  },
+  {
+    "name": "Yordle Snack Stack",
+    "description": "A bite-sized slider trio with quirky toppings, including Poro-flavored mayo and hextech pickles.",
+    "price": 7.99,
+    "region": "Bandle City",
+    "spiceLevel": "Mild",
+    "glutenFree": false,
+    "type": "side"
+  },
+  {
+    "name": "Piltover Hexburger",
+    "description": "A high-tech burger featuring a glowing hextech bun and Caitlyn's precision mustard drizzle.",
+    "price": 10.99,
+    "region": "Piltover",
+    "spiceLevel": "Medium",
+    "glutenFree": false,
+    "type": "main"
+  },
+  {
+    "name": "Zaunite Overload Burger",
+    "description": "A chaotic creation with double patties, shimmer-infused jalapeños, and a sizzling Zaunite glaze.",
+    "price": 11.49,
+    "region": "Zaun",
+    "spiceLevel": "Extreme",
+    "glutenFree": false,
+    "type": "main"
+  },
+  {
+    "name": "Ionian Spirit Burger",
+    "description": "A light yet flavorful tofu burger with Ionian herbs and mystical ginger dressing.",
+    "price": 9.99,
+    "region": "Ionia",
+    "spiceLevel": "Mild",
+    "glutenFree": true,
+    "type": "main"
+  },
+  {
+    "name": "Demacian Honor Ale",
+    "description": "A crisp and refreshing golden ale, brewed with the pride of Demacia.",
+    "price": 5.49,
+    "region": "Demacia",
+    "spiceLevel": "None",
+    "glutenFree": false,
+    "type": "drink"
+  },
+  {
+    "name": "Shuriman Sunbrew",
+    "description": "A sparkling citrus drink inspired by the golden sands of Shurima.",
+    "price": 4.99,
+    "region": "Shurima",
+    "spiceLevel": "None",
+    "glutenFree": true,
+    "type": "drink"
+  },
+  {
+    "name": "Void Essence Soda",
+    "description": "A mysterious and fizzy purple soda with a hint of dark berries.",
+    "price": 5.99,
+    "region": "Void",
+    "spiceLevel": "None",
+    "glutenFree": true,
+    "type": "drink"
+  },
+  {
+    "name": "Freljord Frostbrew",
+    "description": "An ice-cold non-alcoholic beer with a hint of mint from the frozen tundra.",
+    "price": 4.99,
+    "region": "Freljord",
+    "spiceLevel": "None",
+    "glutenFree": true,
+    "type": "drink"
+  },
+  {
+    "name": "Bilgewater Grog",
+    "description": "A classic rum-based mocktail with a splash of tropical juices.",
+    "price": 6.49,
+    "region": "Bilgewater",
+    "spiceLevel": "None",
+    "glutenFree": true,
+    "type": "drink"
+  },
+  {
+    "name": "Ionian Herbal Tea",
+    "description": "A calming tea infused with Ionian blossoms and a touch of ginger.",
+    "price": 4.49,
+    "region": "Ionia",
+    "spiceLevel": "None",
+    "glutenFree": true,
+    "type": "drink"
+  }
+]
